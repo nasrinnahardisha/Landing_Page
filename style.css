@@ -600,10 +600,7 @@ nav {
     .about-container .about__image img {
         max-width: 100%;
     }
-    .room__card__image {
-    height: auto;
 
-}
 .section__header {
     font-size: 1.5rem;
 }
